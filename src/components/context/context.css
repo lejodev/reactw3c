@@ -1,0 +1,6 @@
+div {
+    border: 2px solid black;
+    padding: 30px;
+    height: fit-content;
+    box-sizing: border-box;
+}
